@@ -1,0 +1,4 @@
+studentkit
+==========
+
+App for students
